@@ -1,2 +1,1 @@
-# DSC-Website
-Website for DSC 2019 
+# heromayank2.github.io
